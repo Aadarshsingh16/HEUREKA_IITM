@@ -42,7 +42,8 @@ FHN replaces resume-based hiring with a system that verifies real work, monitors
 
 ## System Architecture
 
-![Architecture](./fair-hiring-frontend/public/architecture.png)
+![Architecture](<img width="1244" height="611" alt="image" src="https://github.com/user-attachments/assets/a657b65e-0708-474c-a85c-d76a25aca097" />
+)
 
 ### High-Level Architecture (ASCII)
 
