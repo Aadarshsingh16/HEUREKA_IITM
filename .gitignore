@@ -121,3 +121,8 @@ results.txt
 final_results.txt
 test_results*.txt
 backend_log.txt
+agents_files/Clean_Hiring_System/bias_detection_agent/bias_report.json
+
+# Ignore all JSON files
+*.json
+
