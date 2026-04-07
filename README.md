@@ -358,8 +358,8 @@ HEUREKA_ACEHACK/
 ## API Documentation
 
 Full API documentation is available at:
-- Swagger UI: [http://localhost:8010/docs](http://localhost:8010/docs)
-- ReDoc: [http://localhost:8010/redoc](http://localhost:8010/redoc)
+- Swagger UI: [http://localhost:8012/docs](http://localhost:8012/docs)
+- ReDoc: [http://localhost:8012/redoc](http://localhost:8012/redoc)
 
 ### Main Endpoints
 
